@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%F0%9F%91%8B+I'm+%3C%3EYuvraj+Singh%3C%2F%3E+)](https://git.io/typing-svg)
 <!--
 **yuvraj0412s/yuvraj0412s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
