@@ -7,26 +7,37 @@
 
 ### Full-Stack Developer & AI/ML Enthusiast
 
-I build intelligent, high-performance web applications using Python and Django, with a focus on turning raw data into impactful insights. I'm a recent Computer Science graduate from Manipal University Jaipur, passionate about solving real-world challenges with technology.
+I build intelligent, high-performance web applications using Python and Django, with a focus on turning raw data into impactful insights. I'm a recent Computer Science graduate from **Manipal University Jaipur**, passionate about solving real-world challenges with technology.
 
 ---
 
-### ✨ My AI Native Portfolio
+### ✨ My AI Native Portfolio & Live Stats
 
-> ### 🚀 Explore my projects and professional journey at: [yuvraj.bio](https://yuvraj.bio)
+> ### 🚀 Explore my full portfolio and projects at: [yuvraj.bio](https://yuvraj.bio)
 
----
+<p align="center">
+  <!-- IMPORTANT: Replace the placeholder usernames with your own -->
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yuvraj-singh-77601827a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
+</p>
 
-### 🛠️ My Tech Stack
-
-<p>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
-  <a href="https://cython.org/" target="_blank"> <img src="https://img.shields.io/badge/Cython-F2991F?style=for-the-badge" alt="Cython"></a>
-  <a href="https://www.w3.org/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+<p align="center">
+  <!-- These badges are live and will update automatically! -->
+  <!-- IMPORTANT: Replace YOUR_CHANNEL_ID with your YouTube channel ID -->
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social" alt="YouTube Subscribers">
+  <img src="https://img.shields.io/youtube/channel/views/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social" alt="YouTube Views">
+  <img src="https://img.shields.io/github/followers/yuvraj0412s?style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=yuvraj0412s&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 ---
@@ -39,11 +50,23 @@ My flagship project is a complete e-commerce website featuring a **Content-Based
 
 ---
 
-### 📊 My GitHub Stats
+### 🛠️ My Tech Stack
+
+<p>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
+  <a href="https://cython.org/" target="_blank"> <img src="https://img.shields.io/badge/Cython-F2991F?style=for-the-badge" alt="Cython"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+</p>
+
+---
+
+### 🏆 Achievement
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj0412s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Yuvraj's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj0412s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://img.shields.io/badge/GitHub%20Star-2024-yellow?style=for-the-badge&logo=github" alt="GitHub Star Badge">
 </p>
 
 ---
