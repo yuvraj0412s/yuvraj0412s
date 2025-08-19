@@ -46,7 +46,7 @@ I build intelligent, high-performance web applications using Python and Django, 
 
 My flagship project is a complete e-commerce website featuring a **Content-Based AI Recommendation System**. The core similarity algorithm is optimized with **Cython** for C-level performance, and the site includes a dynamic, AJAX-powered cart and a full user feedback loop.
 
-> **[View the Project Repository]([https://github.com/yuvraj0412s/ecommerce-project](https://github.com/yuvraj0412s/Django-E-commerce-Platform-with-AI-Powered-Recommendations.git))** 👈 *(Note: Please update this link if your repo has a different name.)*
+> **[View the Project Repository]([https://github.com/yuvraj0412s/Django-E-commerce-Platform-with-AI-Powered-Recommendations](https://github.com/yuvraj0412s/Django-E-commerce-Platform-with-AI-Powered-Recommendations))** 👈 *(Note: Please update this link if your repo has a different name.)*
 
 ---
 
