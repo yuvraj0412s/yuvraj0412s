@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%F0%9F%91%8B+I'm+%3C%3EYuvraj+Singh%3C%2F%3E+)](https://git.io/typing-svg)
 
-# Hi, I'm Yuvraj Singh (Yuvi) 👋
 
 <a href="https://github.com/yuvraj0412s">
   <img align="right" width="380" src="https://raw.githubusercontent.com/ahmad-dev-ops/images/main/github-developer-image.gif" alt="Coding GIF">
