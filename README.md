@@ -34,8 +34,6 @@ I build intelligent, high-performance web applications using Python and Django, 
 <p align="center">
   <!-- These badges are live and will update automatically! -->
   <!-- IMPORTANT: Replace YOUR_CHANNEL_ID with your YouTube channel ID -->
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social" alt="YouTube Subscribers">
-  <img src="https://img.shields.io/youtube/channel/views/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social" alt="YouTube Views">
   <img src="https://img.shields.io/github/followers/yuvraj0412s?style=social" alt="GitHub Followers">
   <img src="https://komarev.com/ghpvc/?username=yuvraj0412s&style=flat-square&color=blue" alt="Profile Views">
 </p>
@@ -46,7 +44,7 @@ I build intelligent, high-performance web applications using Python and Django, 
 
 My flagship project is a complete e-commerce website featuring a **Content-Based AI Recommendation System**. The core similarity algorithm is optimized with **Cython** for C-level performance, and the site includes a dynamic, AJAX-powered cart and a full user feedback loop.
 
-> **[View the Project Repository]([https://github.com/yuvraj0412s/Django-E-commerce-Platform-with-AI-Powered-Recommendations](https://github.com/yuvraj0412s/Django-E-commerce-Platform-with-AI-Powered-Recommendations))** 👈 *(Note: Please update this link if your repo has a different name.)*
+> **[View the Project Repository]([https://github.com/yuvraj0412s/AgroAI](https://github.com/yuvraj0412s/AgroAI))** 👈 *(Note: Please update this link if your repo has a different name.)*
 
 ---
 
